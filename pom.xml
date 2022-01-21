@@ -924,7 +924,7 @@
             <dependency>
                 <groupId>com.hazelcast</groupId>
                 <artifactId>hazelcast</artifactId>
-                <version>3.7.2</version>
+                <version>4.0.5</version>
             </dependency>
             <dependency>
                 <groupId>net.sourceforge.htmlunit</groupId>
